@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/naamkaran/static/css/main.7a2fbede.chunk.css",
+    "main.js": "/naamkaran/static/js/main.19bb56c6.chunk.js",
+    "main.js.map": "/naamkaran/static/js/main.19bb56c6.chunk.js.map",
+    "runtime-main.js": "/naamkaran/static/js/runtime-main.04bcf293.js",
+    "runtime-main.js.map": "/naamkaran/static/js/runtime-main.04bcf293.js.map",
+    "static/js/2.1ce3fec9.chunk.js": "/naamkaran/static/js/2.1ce3fec9.chunk.js",
+    "static/js/2.1ce3fec9.chunk.js.map": "/naamkaran/static/js/2.1ce3fec9.chunk.js.map",
+    "static/js/3.2b11cb02.chunk.js": "/naamkaran/static/js/3.2b11cb02.chunk.js",
+    "static/js/3.2b11cb02.chunk.js.map": "/naamkaran/static/js/3.2b11cb02.chunk.js.map",
+    "index.html": "/naamkaran/index.html",
+    "static/css/main.7a2fbede.chunk.css.map": "/naamkaran/static/css/main.7a2fbede.chunk.css.map",
+    "static/js/2.1ce3fec9.chunk.js.LICENSE.txt": "/naamkaran/static/js/2.1ce3fec9.chunk.js.LICENSE.txt",
+    "static/media/header.bd15e12a.png": "/naamkaran/static/media/header.bd15e12a.png",
+    "static/media/logo.6ce24c58.svg": "/naamkaran/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04bcf293.js",
+    "static/js/2.1ce3fec9.chunk.js",
+    "static/css/main.7a2fbede.chunk.css",
+    "static/js/main.19bb56c6.chunk.js"
+  ]
+}
