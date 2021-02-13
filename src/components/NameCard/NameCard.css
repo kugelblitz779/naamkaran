@@ -1,0 +1,26 @@
+.name-card {
+  color: #e7e9f0;
+  background: #282d4f;
+  margin: 10px 15px;
+  min-width: 90px;
+  display: flex;
+  justify-content: center;
+  padding: 10px 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
+  transition: background 0.35s;
+}
+
+.name-card:hover {
+  background: #4a5079;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+}
+
+.result-name {
+  font-weight: 150;
+}
+
+.link {
+  cursor: pointer;
+  text-decoration: none;
+}
